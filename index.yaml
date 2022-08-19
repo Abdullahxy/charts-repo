@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  firstchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-20T00:39:14.695733+05:00"
+    dependencies:
+    - name: tomcat
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.3.11
+    description: A Helm chart for Kubernetes
+    digest: 993657f36743caa865735e8e8004323e2fcff05cc05952c6a2ca8f16889330ea
+    name: firstchart
+    type: application
+    urls:
+    - firstchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-20T00:39:14.689159+05:00"
